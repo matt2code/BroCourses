@@ -1,7 +1,7 @@
 console.log("Nepu!")
 console.log("I like pudding!")
 
-window.alert("NEPU NEPU NEPU NEPU NEPU NEPU")
+window.alert("NEPU NEPU NEPU NEPU NEPU")
 
 //comment
 
