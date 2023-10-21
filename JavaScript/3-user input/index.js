@@ -4,7 +4,7 @@
 
 //html textbox (difficult way, but more practical)
 let username;
-document.getElementById("confirmBtn").onclick = function(){ //acesses the document, fires a function after clicking on the element with the "confirmBtn" id.
+document.getElementById("confirmBtn").onclick = function(){ //acesses the document and fires a function after clicking on the element with the "confirmBtn" id.
     username = document.getElementById("namePrompt").value; //assigns the value inside the element with the "namePrompt" id.
     console.log(username); //displays the assigned username
 
